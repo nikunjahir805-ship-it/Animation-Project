@@ -4,22 +4,22 @@ const reviews = [
   {
     name: "Santosh Hadiya",
     content: "Clean UI and smooth experience. Helped me stay consistent while learning React.",
-    avatar: "/avatars/santosh.jpg"
+    avatar: "/public/santosh.jpg"
   },
   {
     name: "Amit Patel",
     content: "AI features are super helpful. Makes coding daily a habit.",
-    avatar: "/avatars/amit.jpg"
+    avatar: "/public/amit.jpg"
   },
   {
     name: "Riya Sharma",
     content: "Simple, focused, and effective. Highly recommend for developers.",
-    avatar: "/avatars/riya.jpg"
+    avatar: "/public/riya.jpg"
   },
   {
     name: "Kiran Desai",
     content: "Great interface and reliable AI suggestions. My workflow improved a lot.",
-    avatar: "/avatars/kiran.jpg"
+    avatar: "/public/kiran.jpg"
   }
 ]
 
