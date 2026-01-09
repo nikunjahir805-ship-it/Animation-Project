@@ -4,7 +4,7 @@ const reviews = [
   {
     name: "Santosh Hadiya",
     content: "Clean UI and smooth experience. Helped me stay consistent while learning React.",
-    avatar: "/public/santosh.jpg"
+    avatar: "public/santosh.jpg"
   },
   {
     name: "Amit Patel",
